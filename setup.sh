@@ -1,6 +1,8 @@
 #!/bin/bash
 # Simple setup.sh for configuring Ubuntu 12.04 LTS EC2 instance
-# for headless setup. 
+# for headless setup.
+ 
+#Reproducible development environment
 
 # Install nvm: node-version manager
 # https://github.com/creationix/nvm
